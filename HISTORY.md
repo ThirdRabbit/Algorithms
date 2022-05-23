@@ -7,3 +7,8 @@
 
 - [BOJ 2304](https://www.acmicpc.net/problem/2304)
 - [BOJ 13335](https://www.acmicpc.net/problem/13335)
+
+### 2022-05-26
+
+- [BOJ 1012](https://www.acmicpc.net/problem/1012)
+- [BOJ 2606](https://www.acmicpc.net/problem/2606)
