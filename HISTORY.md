@@ -22,3 +22,8 @@
 
 - [BOJ 1182](https://www.acmicpc.net/problem/1182)
 - [BOJ 2579](https://www.acmicpc.net/problem/2579)
+
+### 2022-06-14
+
+- [BOJ 2193](https://www.acmicpc.net/problem/2193)
+- [BOJ 10819](https://www.acmicpc.net/problem/10819)
